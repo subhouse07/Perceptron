@@ -1,5 +1,5 @@
 # Perceptron
-Written by Andy Peterson
+
 ## SUMMARY
 
     This program constructs a perceptron of N inputs which have values of either
